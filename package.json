@@ -1,0 +1,19 @@
+{
+  "name": "eft-cadena-suministro-frutas",
+  "version": "1.0.0",
+  "description": "Boilerplate para la trazabilidad de frutas en la cadena de suministro - BCY0010 EFT",
+  "type": "module",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.0",
+    "chai": "^4.3.7",
+    "ethers": "^6.12.0",
+    "@nomicfoundation/hardhat-ethers": "^3.0.5"
+  }
+}
