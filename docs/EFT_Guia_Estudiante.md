@@ -127,7 +127,7 @@ Desde la Cuenta 1 (Owner), ejecute:
 
 ---
 
-## 💬 Preguntas Clave para Preparar la Defensa Individual (80%)
+## 💬 Preguntas Clave para Preparar la Defensa Individual
 
 Prepare las respuestas a estas preguntas utilizando los conceptos aprendidos para asegurar la nota máxima en la defensa oral:
 
